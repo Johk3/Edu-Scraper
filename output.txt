@@ -1,0 +1,7 @@
+
+Email: bgao@txstate.edu, Fullname: Dr.ByronGao, Research interests: Data mining, databases, information retrieval, Education: BS, PhD, Simon Fraser University, Homepage: http://cs.txstate.edu/~jg66
+Email: t_181@txstate.edu, Fullname: Dr.TedLehr, Research interests: , Education: BSBA, Bucknell University; MS, PhD, Carnegie-Mellon University, Homepage: 
+Email: d1225@txstate.edu, Fullname: Mr.JasonDiaz, Research interests: , Education: BS in computer science, UT Austin; MS in software engineering, MBA, Texas State University, Homepage: 
+Email: bgao@txstate.edu, Fullname: Dr.ByronGao, Research interests: Data mining, databases, information retrieval, Education: BS, PhD, Simon Fraser University, Homepage: http://cs.txstate.edu/~jg66
+Email: t_181@txstate.edu, Fullname: Dr.TedLehr, Research interests: , Education: BSBA, Bucknell University; MS, PhD, Carnegie-Mellon University, Homepage: 
+Email: d1225@txstate.edu, Fullname: Mr.JasonDiaz, Research interests: , Education: BS in computer science, UT Austin; MS in software engineering, MBA, Texas State University, Homepage: 

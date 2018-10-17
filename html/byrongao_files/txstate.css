@@ -1,0 +1,185 @@
+@import url("styles-tan.css");
+
+.email-image {
+    cursor: text;
+}
+
+.pagination > li > a, .pagination > li > span {
+    color: #cdc6bf;
+}
+
+a:hover, a:focus {
+    color: #ae9c7f;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: #8c734a;
+}
+
+.btn:hover, .btn:focus {
+    color: #ffffff
+}
+
+.box {
+    padding: 5px;
+}
+
+.main-nav {
+    margin-bottom: 10px;
+}
+
+.header .header-main {
+    padding: 15px 0;
+}
+
+.main-title {
+    padding-top: 10px;
+}
+
+.bottom-buffer {
+    margin-bottom: 10px;
+}
+
+.page-wrapper .page-heading h3.heading-title {
+    display: block;
+    float: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+ul.breadcrumbs-list {
+    padding-top: 12px!important;
+}
+
+p.last-modified {
+    margin-bottom: 0px;
+}
+
+.wrapper {
+    margin-bottom: auto;
+}
+
+.wrapper:after {
+    height: auto;
+}
+
+.footer {
+    height: auto;
+}
+
+.footer-col-inner {
+    margin-bottom: 0px;
+}
+
+@media (max-width: 767px) {
+
+    .wrapper {
+        margin-bottom: auto;
+    }
+
+    .wrapper:after {
+        height: auto;
+    }
+
+    .footer {
+        height: auto;
+    }
+}
+
+.logo-img {
+    max-height: 66px;
+}
+
+.home-page .events .section-content {
+    min-height: 0px;
+}
+
+.home-page .section-content {
+    padding: 0 8px 8px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .nav>li>a {
+        font-size: 11px;
+        padding-left: 9px;
+        padding-right: 9px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1210px) {
+    .nav>li>a {
+        font-size: 12px;
+        padding-left: 14px;
+        padding-right: 14px;
+    }
+}
+
+.home-page h3.section-heading {
+    color: #4f1f26;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 2;
+    margin-top: 0;
+}
+.home-page h3.section-heading .line {
+    border-top: 2px solid #8c734a;
+    display: inline-block;
+    padding: 5px 18px 0;
+}
+.main-nav .nav .nav-item a {
+    color: #ffffff;
+}
+.home-page .events {
+    position: relative;
+}
+.home-page .events .section-content {
+    min-height: 0px;
+}
+.home-page .events .carousel-controls {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.txstate_logo {
+    width: 195px;
+}
+@media (min-width: 768px) {
+    .wrapper {
+        margin-bottom: auto;
+    }
+    .home-page .news .thumb {
+        width: 80px;
+        height: 80px;
+    }
+    .home-page .news .news-item {
+        padding-left: 95px;
+    }
+    .home-page .events .section-content {
+        min-height: 0px;
+    }
+}
+@media (min-width: 992px) {
+    .home-page .news .thumb {
+        width: auto;
+        height: auto;
+    }
+    .home-page .news .news-item {
+        padding-left: 115px;
+    }
+    .home-page .events .section-content {
+        min-height: auto;
+    }
+    .wrapper {
+        min-height: 100%;
+        margin-bottom: -141px;
+    }
+    .wrapper:after {
+        content: "";
+        display: block;
+        height: 141px;
+    }
+    .footer {
+        height: 141px;
+    }
+}
